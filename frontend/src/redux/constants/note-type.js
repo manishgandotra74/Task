@@ -1,0 +1,9 @@
+export const Types = {
+    ADD_BUCKET:"ADD_BUCKET",
+    GET_BUCKET:"GET_BUCKET",
+    UPDATE_BUCKET:"UPDATE_BUCKET",
+    ADD_NOTE:"ADD_NOTE",
+    UPDATE_NOTE:"UPDATE_NOTE",
+    GET_NOTE:'GET_NOTE'
+  };
+  
